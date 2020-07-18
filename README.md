@@ -1,7 +1,5 @@
 ### Hi! 👋
 
-The prospect of learning about programming fascinates me. 
-
 I'm always concerned with creating more reusable and clean codes!
 
 ### Useful links:
