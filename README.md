@@ -12,6 +12,8 @@
 
 ### Hi! 👋
 
-- 🚀 I’m currently working as Software Engineer at Bee Delivery
-- 💻 Laravel, Node, ReactJs, React Native, Typescript
-- 👍 I'm always concerned with creating more reusable and clean code!
+🚀 I’m currently working as Software Engineer at Bee Delivery
+
+💻 Laravel, Node, ReactJs, React Native, Typescript
+
+👍 I'm always concerned with creating more reusable and clean code!
