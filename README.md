@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" width="350"/>
+<img align="right" src="https://user-images.githubusercontent.com/30202634/89540902-0da24b80-d7d4-11ea-9614-ccf4bf42dfc6.png" width="350"/>
 
 <a href="https://www.linkedin.com/in/mateus4k">
 <img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-%3CLinkedin%20/%3E-blue"/>
