@@ -12,8 +12,8 @@
 
 ### Hi! 👋
 
-🚀 I’m currently working as Software Engineer at Bee Delivery
+🚀 I’m currently working as Integration Engineer at LinkApi Solutions
 
-💻 Laravel, Node, ReactJs, React Native, Typescript
+💻 Node, ReactJs, React Native, Typescript
 
 👍 I'm always concerned with creating more reusable and clean code!
