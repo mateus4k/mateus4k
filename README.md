@@ -17,3 +17,5 @@
 💻 Node, ReactJs, React Native, Typescript
 
 👍 I'm always concerned with creating more reusable and clean code!
+
+<img align="center" alt="Mateus's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mateus4k&show_icons=true&hide_border=true" />
