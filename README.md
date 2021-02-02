@@ -12,10 +12,8 @@
 
 ### Hi! 👋
 
-🚀 I’m currently working as Integration Engineer at LinkApi Solutions
+🚀 I’m currently working as Integration Engineer at [LinkApi Solutions](https://linkapi.solutions/). Previously, I worked as a software engineer at an urban mobility startup helping to create a good culture of code quality and code review.
 
-💻 Node, ReactJs, React Native, Typescript
-
-👍 I'm always concerned with creating more reusable and clean code!
+💻 JavaScript, Node.js, ReactJs, React Native, Typescript
 
 <img align="center" alt="Mateus's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mateus4k&show_icons=true&hide_border=true" />
