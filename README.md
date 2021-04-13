@@ -12,7 +12,7 @@
 
 ### Hi! 👋
 
-🚀 I’m currently working as Integration Engineer at [LinkApi Solutions](https://linkapi.solutions/). Previously, I worked as a software engineer at an urban mobility startup helping to create a good culture of code quality and code review.
+🚀 I'm a software developer at [LinkApi Solutions](https://linkapi.solutions/). I'm always looking for a good quality of code and architecture.
 
 💻 JavaScript, Node.js, ReactJs, React Native, Typescript
 
