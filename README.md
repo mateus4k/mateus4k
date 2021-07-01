@@ -10,4 +10,4 @@
 
 <br />
 
-<img align="center" alt="Mateus's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=mateus4k&show_icons=true&hide_border=true&theme=dark" />
+![Stats](https://github-readme-stats.vercel.app/api?username=mateus4k&show_icons=true&hide_border=true&theme=dark)
