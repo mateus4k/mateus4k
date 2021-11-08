@@ -2,7 +2,7 @@
 
 ### Hi! 👋
 
-🚀 I'm a software developer at [LinkApi Solutions](https://linkapi.solutions/). I'm always looking for a good quality of code and architecture.
+🚀 I'm a software engineer at [LinkApi Solutions](https://linkapi.solutions/). I'm always looking for a good quality of code and architecture.
 
 💻 JavaScript, Node.js, ReactJs, React Native, Typescript
 
