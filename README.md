@@ -2,9 +2,9 @@
 
 ### Hi! 👋
 
-🚀 I'm a software engineer at [LinkApi Solutions](https://linkapi.solutions/). I'm always looking for a good quality of code and architecture.
+🚀 I'm a full-stack software engineer focused on backend development
 
-💻 JavaScript, Node.js, ReactJs, React Native, Typescript
+💻 Node.js, JavaScript/TypeScript, ReactJs, Docker, Kubernetes, MongoDB, Redis, RabbitMQ
 
 <br />
 
