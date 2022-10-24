@@ -2,4 +2,4 @@
 
 ### Hi!
 
-💻 I'm a Senior Backend Software Engineer working with Node.js, TypeScript and Kubernetes
+💻 I'm a Senior Backend Engineer working with Node.js, TypeScript and Kubernetes
